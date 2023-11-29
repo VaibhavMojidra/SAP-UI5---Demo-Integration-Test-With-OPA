@@ -1,0 +1,15 @@
+{
+  "name": "com.vaibhavmojidra.integrationtestwithopademo",
+  "version": "1.0.0",
+  "description": "Integration Test with OPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vaibhav",
+    "Mojidra"
+  ],
+  "author": "Vaibhav Mojidra",
+  "license": "ISC"
+}
